@@ -21,5 +21,6 @@ This repository consists of my solution to the following kaggle competition: htt
 2. Data Preprocessing
 3. Grid search:1 to determine the optimum size of the Neural network architecture. 
 4. Grid search:2 to determine the optimum value of the hyper parameters using cross validation.
-5. Create submission and get estimate of the performance. 
+5. Analysze the learning curves of the best selected model.
+6. Create submission and get estimate of the performance. 
 ```
