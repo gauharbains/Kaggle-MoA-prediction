@@ -1,6 +1,6 @@
 # Kaggle-MoA-prediction  
 
-This repository consists of my solution to the following kaggle competition: https://www.kaggle.com/c/lish-moa. Tu use the notebook, donwload the data from the kaggle site and copy it into the `Data` directory within the repository. 
+This repository consists of my solution to the following kaggle competition: https://www.kaggle.com/c/lish-moa. To use the notebook, download the data from the kaggle site and copy it into the `Data` directory within the repository. 
 
 
 ## Requirements 
